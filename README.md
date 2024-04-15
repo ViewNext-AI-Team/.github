@@ -1,2 +1,2 @@
 # .github
-ViewNext Team GitHub Description
+ViewNext AI Team GitHub Description
